@@ -1,6 +1,55 @@
-Üzgünüm, doğrudan PDF oluşturamam veya dosya kaydedemem. Ancak size kapsamlı İngilizce çeviriyi buraya yazabilirim, siz bunu daha sonra PDF'e çevirebilirsiniz.
+Türkçe Prompt:
+Merhaba Claude. Seninle modern, modüler ve kapsamlı bir CMS sistemi geliştirmek istiyoruz. Size detaylı bir geliştirme kılavuzu hazırladık. Bu kılavuz, sistemin tüm bileşenlerini, mimarisini ve implementasyon detaylarını içeriyor.
+Kılavuzu kullanırken:
 
+Her bir modülü sırayla geliştireceksiniz
+Her modül için önce yapıyı oluşturacak, sonra implementasyonu yapacaksınız
+Her aşamada test edilebilir kod üreteceksiniz
+Modern PHP standartlarını ve best practice'leri takip edeceksiniz
+Modüller arası bağımlılıkları ve entegrasyonu göz önünde bulunduracaksınız
 
+Çalışma süreci şu şekilde olacak:
+
+Size bir modül veya özellik geliştirmenizi isteyeceğiz
+Kılavuzdaki ilgili bölümü referans alarak geliştirmeyi yapacaksınız
+Geliştirdiğiniz kodu test edilebilir ve dokümante edilmiş şekilde sunacaksınız
+Gerektiğinde diğer modüllerle entegrasyon noktalarını belirteceksiniz
+
+Her modül için şunları bekliyoruz:
+
+Temiz ve okunabilir kod
+PHPDoc ile dokümantasyon
+Unit testler
+Kullanım örnekleri
+Entegrasyon noktaları
+
+Başlamak için hangi modülden başlamamızı istersiniz?
+English Prompt:
+Hello Claude. We want to develop a modern, modular, and comprehensive CMS system with you. We have prepared a detailed development guide. This guide includes all components, architecture, and implementation details of the system.
+When using the guide:
+
+You will develop each module sequentially
+For each module, you will first create the structure, then implement it
+You will produce testable code at each stage
+You will follow modern PHP standards and best practices
+You will consider inter-module dependencies and integration
+
+The working process will be as follows:
+
+We will ask you to develop a module or feature
+You will develop it by referencing the relevant section in the guide
+You will present the developed code in a testable and documented manner
+You will indicate integration points with other modules when necessary
+
+For each module, we expect:
+
+Clean and readable code
+Documentation with PHPDoc
+Unit tests
+Usage examples
+Integration points
+
+Which module would you like to start with?
 
 # Complete Laravel CMS System Documentation
 
